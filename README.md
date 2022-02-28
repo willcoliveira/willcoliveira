@@ -3,8 +3,8 @@
 I’m Software Engineer specialized in QA and Test Automation. 
 I'm building things and Quality with the following stack:
 
-- Python, JavaScript, Swift and a bit of Java.
-- Cypress, WebdriverIO, Selenium WebDriver, Robot Framework, Appium, UIAutomator, Espresso, XCTest and Postman.
+- Python, JavaScript, TypeScript and a bit of Swift.
+- Cypress, WebdriverIO, Selenium, Robot Framework, TestCafe, Playwright, Appium, Detox, UIAutomator, Espresso, XCTest and Postman (Newman).
 - Unit tests with React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest and PyUnit.
 - Gherkin and BDD with Cucumber.
 - External resources under testing on SauceLabs and BrowserStack. 
