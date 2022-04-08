@@ -8,7 +8,7 @@ I'm building things and Quality with the following stack:
 - Unit tests with React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest and PyUnit.
 - Gherkin and BDD with Cucumber.
 - External resources under testing on SauceLabs and BrowserStack. 
-- DevOps with Jenkins, AWS, Gitlab, Docker and a bit of Travis and S3.
+- DevOps skills with Docker, Jenkins, AWS, Azure DevOps, GitlabIO, Kubernetes, Grafana and a bit of Travis and S3.
 </em></p>
 
 
