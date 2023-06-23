@@ -1,4 +1,4 @@
-### Hello there, I’m William Oliveira or Will. Welcome 👋
+### Hello there, I’m William Oliveira (Will). Welcome 👋
 <p><em>
 I’m Software Engineer specializing in QA and Test Automation. 
 I'm building things and Quality with the following stack:
