@@ -1,14 +1,14 @@
 ### Hello there, I’m William Oliveira or Will. Welcome 👋
 <p><em>
-I’m Software Engineer specialized in QA and Test Automation. 
+I’m Software Engineer specializing in QA and Test Automation. 
 I'm building things and Quality with the following stack:
 
-- Python, JavaScript, TypeScript and a bit of Swift.
+- Python, JavaScript, TypeScript, and a bit of Swift.
 - Cypress, WebdriverIO, Selenium, Robot Framework, TestCafe, Playwright, Appium, Detox, UIAutomator, Espresso, XCTest and Postman (Newman).
-- Unit tests with React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest and PyUnit.
+- Unit tests with React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest, and PyUnit.
 - Gherkin and BDD with Cucumber.
 - External resources under testing on SauceLabs and BrowserStack. 
-- DevOps skills with Docker, Jenkins, AWS, Azure DevOps, GitlabIO, Kubernetes, Grafana and a bit of Travis and S3.
+- DevOps skills with Docker, Jenkins, AWS, Azure DevOps, GitlabIO, Kubernetes, Grafana, and a bit of Travis and S3.
 </em></p>
 
 
