@@ -1,19 +1,17 @@
 ### Hello there, I’m William Oliveira (Will). Welcome 👋
 <p><em>
-I’m Software Engineer specializing in QA and Test Automation. 
-I'm building things and Quality with the following stack:
+I'm Software Engineer specializing in Quality Assurance and Test Automation. With over 11 years of expertise, I'm a certified Tester in Advanced Level (CTAL-TA) certification from ISTQB. I'm passionate about delivering high-quality results and building strong relationships with team members and stakeholders. Throughout my career, I have built enduring client relationships based on trust and consistently received glowing feedback for my work.
 
-- Python, JavaScript, TypeScript, and a bit of Swift.
-- Cypress, WebdriverIO, Selenium, Robot Framework, TestCafe, Playwright, Appium, Detox, UIAutomator, Espresso, XCTest and Postman (Newman).
-- Unit tests with React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest, and PyUnit.
-- Gherkin and BDD with Cucumber.
-- External resources under testing on SauceLabs and BrowserStack. 
-- DevOps skills with Docker, Jenkins, AWS, Azure DevOps, GitlabIO, Kubernetes, Grafana, and a bit of Travis and S3.
+Skills and Expertise:
+- Programming Languages: Python, JavaScript/TypeScript, Swift.
+- CI/CD Tools: Jenkins, AWS, Gitlab, CircleCI, Docker, Travis, S3.
+- Frameworks: Cypress, WebdriverIO, Selenium, Puppeteer, TestCafe, Robot Framework.
+- Mobile Testing: Appium, Detox, UIAutomator, Espresso, XCTest, XCUITest.
+- Unit Testing: React Testing Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest, PyUnit.
+- Tools: Cucumber, SauceLabs, BrowserStack, Postman, Gherkin scripts.
 </em></p>
 
 
 ### Find me 🌎
-💼  [LinkedIn](https://www.linkedin.com/in/wcoliveira/)<br>
-📫  [Email](mailto:williamcarlos00@gmail.com) <br>
-🤖  [CV](https://willcoliveira.github.io/) <br>
+📫  [Email](mailto:williamcarlospt00@gmail.com) <br>
 🚀  [Opportunities](https://www.upwork.com/freelancers/~010037e5f2b47026f2) <br>
