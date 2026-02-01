@@ -14,4 +14,3 @@ Skills and Expertise:
 
 ### Find me 🌎
 📫  [Email](mailto:williamcarlospt00@gmail.com) <br>
-🚀  [Opportunities](https://www.upwork.com/freelancers/~010037e5f2b47026f2) <br>
